@@ -1,6 +1,6 @@
 # group7
 
-https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmx0MTJ2N29rOWR2a2QzNndrbmJxa2NpYTlxaGF3enpldHRleWVudyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dzaUX7CAG0Ihi/giphy.gif
+<div style="width:100%;height:0;padding-bottom:54%;position:relative;"><iframe src="https://giphy.com/embed/dzaUX7CAG0Ihi" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/hello-hi-dzaUX7CAG0Ihi">via GIPHY</a></p>
 
 i juss made sum bs
 
